@@ -1,5 +1,10 @@
 [
     {
+        "id": "_meta",
+        "name": "Twisted Fates v1.4",
+        "author:": "Zobody"
+    },
+    {
         "image": "https://i.ibb.co/vQFtCpv/zenith.png",
         "id": "zenith",
         "team": "peacebroker",
