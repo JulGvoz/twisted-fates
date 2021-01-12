@@ -22,3 +22,6 @@
 
 ## v1.3.1
 * Fix images for GitHub in README.md
+
+## v1.3.2
+* Fix Elixir image in README.md

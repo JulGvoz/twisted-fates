@@ -36,7 +36,7 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 ## Elixir
 "You cannot die from execution if you were nominated by a fated."
 
-<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/calamity.png" alt="calamity" width="100">
+<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/elixir.png" alt="elixir" width="100">
 
 **Elixir** is protected from fated alignment players during executions.
 
