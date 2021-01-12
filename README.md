@@ -39,7 +39,7 @@ Players | Peacebroker | Fatebound | Vile
 11|4|4<sup>\[\*\]</sup>|4<sup>\[\*\]</sup>
 
 <sup>\[\*\]</sup>
-Because [Sleepwalker](#Sleepwalker) must be in the game, put in all characters, and then assign the Sleepwalker token to a Vile or a Fatebound player.
+Because [Sleepwalker](#Sleepwalker) must be in the game, put in all character tokens except the Sleepwalker in the bag, and then assign the "Sleepwalker" reminder token to a Vile or a Fatebound player.
 
 # Peacebroker
 *Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*
