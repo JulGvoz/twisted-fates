@@ -1,4 +1,7 @@
 # Changelog
+## v1.6
+* Script now relies on GitHub to host images
+* Character tokens now pretty
 ## v1.5
 * Added a logo
 ## v1.4.2
