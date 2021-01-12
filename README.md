@@ -6,6 +6,39 @@ Designed and curated by Zobody, with help from emptyset#9999.
 Icon credit:
  - <https://game-icons.net>
 
+## Homebrew Rules
+
+There are 3 alignments/teams: good, evil and fated, and 3 character types:
+- [Peacebrokers](##Peacebroker) start good.
+- [Vile](##Vile) start evil.
+- [Fatebound](##Fatebound) start fated.
+
+Good team wins when all evils die. 
+
+Evil team wins when all fated die. 
+
+Fated team wins when all good die.
+
+Team that wins | Team that died out
+-|-
+Good|Evil
+Evil|Fated
+Fated|Good
+
+Game immediately ends when all players in any of the teams are dead.
+
+### Setup
+Players | Peacebroker | Fatebound | Vile
+-|-|-|-
+5|2|2|1
+6|2|2|2
+7|3|2|2
+8|3|3|2
+9|3|3|3
+10|4|3|3
+11|4|4[^*]|4[^*]
+[^*] Because [[##Sleepwalker]] must be in the game, put in all characters, and then assign the Sleepwalker token to a Vile or a Fatebound player.
+
 # Peacebroker
 *Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*
 
@@ -34,6 +67,7 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - If Calamity is executed during the 1st day, nothing happens, and their ability is used up.
 - Calamity's ability can often end in multiple teams dying out. In that case, multiple teams win.
 - Calamity being executed while dead does nothing, since they have no ability while dead.
+- Your ability triggers before the game ends (so if all other players of your alignment were dead, they will become alive and the game will not end)
 
 ## Elixir
 "You cannot die from execution if you were nominated by a fated."

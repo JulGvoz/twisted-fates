@@ -1,4 +1,7 @@
 # Changelog
+## v1.4.2
+* Ruleset introduction added
+* Calamity clarification
 ## v1.4.1
 * Add BotC link
 * Seeker clarification
