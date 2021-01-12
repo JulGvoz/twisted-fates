@@ -12,7 +12,8 @@ Icon credit:
 Peacebrokers start on the **good** team. They win when all players on the **evil** team die.
 ## Zenith
 "Each night\*, choose any number of players: if they are on the same team, they cannot die tonight."
-![[original-icons/zenith.png|100]]
+
+<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/zenith.png" alt="zenith" width="100">
 
 **Zenith** can protect players of the same alignment.
 
@@ -24,7 +25,7 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 ## Calamity
 "The 1st time you are executed (not the 1st day), all living players die & all dead players come back to life. You stay dead."
 
-![[original-icons/calamity.png|100]]
+<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/calamity.png" alt="calamity" width="100">
 
 **Calamity** causes living and dead to flip if someone dares to execute them.
 
@@ -35,7 +36,7 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 ## Elixir
 "You cannot die from execution if you were nominated by a fated."
 
-![[original-icons/elixir.png|100]]
+<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/calamity.png" alt="calamity" width="100">
 
 **Elixir** is protected from fated alignment players during executions.
 
@@ -45,7 +46,7 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 ## Sleepwalker
 "You do not know you are a Peacebroker. You think that you are either Vile or Fatebound."
 
-![[original-icons/sleepwalker.png|100]]
+<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/sleepwalker.png" alt="sleepwalker" width="100">
 
 - During setup, the Sleepwalker's token does not go in the bag. Instead, a Vile or Fatebound character goes in the bag (Your choice), and the player who draws that token is secretly the Sleepwalker for the whole game. You know. They do not.
 - If you put an extra Vile token, the Sleepwalker must be a Vile. Accordingly with Fatebound.

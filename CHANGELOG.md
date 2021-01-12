@@ -19,3 +19,6 @@
 * Zenith acts first during other nights.
 * Calamity cannot activate during the 1st day.
 * Almanac like additions to README.md
+
+## v1.3.1
+* Fix images for GitHub in README.md
