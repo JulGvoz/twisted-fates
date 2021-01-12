@@ -36,8 +36,10 @@ Players | Peacebroker | Fatebound | Vile
 8|3|3|2
 9|3|3|3
 10|4|3|3
-11|4|4[^*]|4[^*]
-[^*] Because [[##Sleepwalker]] must be in the game, put in all characters, and then assign the Sleepwalker token to a Vile or a Fatebound player.
+11|4|4<sup>\[\*\]</sup>|4<sup>\[\*\]</sup>
+
+<sup>\[\*\]</sup>
+Because [[##Sleepwalker]] must be in the game, put in all characters, and then assign the Sleepwalker token to a Vile or a Fatebound player.
 
 # Peacebroker
 *Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*
