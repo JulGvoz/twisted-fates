@@ -1,4 +1,8 @@
 # Changelog
+## v1.4.0
+* Apostle wording changed and simplified.
+* Good and evil icons for Peacebrokers and Vile.
+* Almanac explanations for Vile and Fatebound characters.
 ## v1.3.3
 * Reverse CHANGELOG.md order
 ## v1.3.2
