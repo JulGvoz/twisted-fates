@@ -3,7 +3,7 @@
 To play on [clocktower.online](https://clocktower.online) simply press `E`, choose **Custom Script / Characters**, click **Enter URL** and paste this:
 
 ```
-https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/Twisted%20Fates.json
+https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/twisted-fates.json
 ```
 
 <img src="https://i.ibb.co/w7xMHc5/script-icon.png" alt="twisted-fates" width="512">
