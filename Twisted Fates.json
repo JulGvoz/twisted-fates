@@ -76,7 +76,7 @@
         "team": "vile",
         "name": "Wanton",
         "firstNight": 0,
-        "otherNight": 5,
+        "otherNight": 15,
         "reminders": [
             "Evil nominated today",
             "Dies"
@@ -88,7 +88,7 @@
         "id": "neolith",
         "team": "vile",
         "name": "Neolith",
-        "firstNight": 15,
+        "firstNight": 25,
         "otherNight": 25,
         "reminders": [
             "Marked",
@@ -138,7 +138,7 @@
         "reminders": [
             "Nominated 1st"
         ],
-        "ability": "Each night*, you become the alignment of the 1st player who nominated. If you win & you are not fated, you become fated and lose instead."
+        "ability": "Each night*, you become the alignment of the 1st player who nominated today. When the game ends, you become fated."
     },
     {
         "image": "https://i.ibb.co/FWhmQXG/fated.png",

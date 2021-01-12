@@ -41,6 +41,18 @@ Players | Peacebroker | Fatebound | Vile
 <sup>\[\*\]</sup>
 Because [Sleepwalker](#Sleepwalker) must be in the game, put in all character tokens except the Sleepwalker in the bag, and then assign the "Sleepwalker" reminder token to a Vile or a Fatebound player.
 
+### Night order
+|First night | Other nights|
+|-|-|
+|[Weaver](#Weaver)|[Zenith](#Zenith)|
+|[Seeker](#Seeker)|[Wanton](#Wanton)|
+|[Neolith](#Neolith)|[Neolith](#Neolith)|
+| |[Cutthroat](#Cutthroat)|
+| |[Savage](#Savage)|
+| |[Seeker](#Seeker)|
+| |[Apostle](#Apostle)|
+| |[Mangler](#Mangler)|
+
 # Peacebroker
 *Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*
 
