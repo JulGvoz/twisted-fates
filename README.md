@@ -1,3 +1,33 @@
+# Vile
+
+## Cutthroat
+
+## Neolith
+
+## Savage
+
+## Wanton
+
+# Peacebroker
+
+## Elixir
+
+## Calamity
+
+## Zenith
+
+## Sleepwalker
+
+# Fatebound
+
+## Weaver
+
+## Mangler
+
+## Apostle
+
+## Seeker
+
 1.	Weaver
 a.	Fatebound
 b.	You start knowing the entire Grimoire. Players of your alignment register falsely to you in the Grimoire you see.
