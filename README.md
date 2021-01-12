@@ -1,4 +1,11 @@
 # Twisted Fates
+
+To play on [clocktower.online](https://clocktower.online) simply press `E`, choose **Custom Script / Characters**, click **Enter URL** and paste this:
+
+```
+https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/Twisted%20Fates.json
+```
+
 This is *fan-made content*. [Blood on the Clocktower](https://bloodontheclocktower.com) is owned by Steven Medway and [The Pandemonium Institute](https://www.thepandemoniuminstitute.com). 
 
 Designed and curated by Zobody, with help from emptyset#9999.
