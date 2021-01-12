@@ -79,7 +79,7 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - Zenith may choose not to act.
 
 ## Calamity
-"The 1st time you are executed (not the 1st day), all living players die & all dead players come back to life. You stay dead."
+"The 1st time you are executed (not the 1st day), all living players die & all dead players come back to life. You stay dead."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/calamity.png" alt="calamity" width="100">
 
