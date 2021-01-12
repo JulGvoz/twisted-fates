@@ -9,9 +9,9 @@ Icon credit:
 ## Homebrew Rules
 
 There are 3 alignments/teams: good, evil and fated, and 3 character types:
-- [Peacebrokers](##Peacebroker) start good.
-- [Vile](##Vile) start evil.
-- [Fatebound](##Fatebound) start fated.
+- [Peacebrokers](#Peacebroker) start good.
+- [Vile](#Vile) start evil.
+- [Fatebound](#Fatebound) start fated.
 
 Good team wins when all evils die. 
 
@@ -39,7 +39,7 @@ Players | Peacebroker | Fatebound | Vile
 11|4|4<sup>\[\*\]</sup>|4<sup>\[\*\]</sup>
 
 <sup>\[\*\]</sup>
-Because [[##Sleepwalker]] must be in the game, put in all characters, and then assign the Sleepwalker token to a Vile or a Fatebound player.
+Because [Sleepwalker](##Sleepwalker) must be in the game, put in all characters, and then assign the Sleepwalker token to a Vile or a Fatebound player.
 
 # Peacebroker
 *Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*
