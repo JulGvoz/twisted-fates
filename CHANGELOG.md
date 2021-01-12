@@ -1,4 +1,7 @@
 # Changelog
+## v1.4.1
+* Add BotC link
+* Seeker clarification
 ## v1.4.0
 * Apostle wording changed and simplified.
 * Good and evil icons for Peacebrokers and Vile.

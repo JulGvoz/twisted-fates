@@ -1,5 +1,5 @@
 # Twisted Fates
-This is *fan-made content*. Blood on the Clocktower is owned by Steven Medway and [The Pandemonium Institute](https://www.thepandemoniuminstitute.com). 
+This is *fan-made content*. [Blood on the Clocktower](https://bloodontheclocktower.com) is owned by Steven Medway and [The Pandemonium Institute](https://www.thepandemoniuminstitute.com). 
 
 Designed and curated by Zobody, with help from emptyset#9999.
 
@@ -133,6 +133,7 @@ You start knowing a player & their alignment. When the player you kn
 - The Storyteller can show the Seeker themselves (not recommended).
 - Seeker only wakes if the player who they knew died before them during night or day.
 - If Seeker would die tonight, they cannot learn another player.
+- If the player Seeker knows changes alignment, Seeker does not learn this.
 
 ## Mangler
 "Each night\*, choose 2 players (not yourself): they swap alignments."
