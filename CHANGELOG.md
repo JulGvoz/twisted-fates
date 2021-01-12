@@ -1,4 +1,6 @@
 # Changelog
+## v1.5
+* Added a logo
 ## v1.4.2
 * Ruleset introduction added
 * Calamity clarification

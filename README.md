@@ -6,6 +6,8 @@ To play on [clocktower.online](https://clocktower.online) simply press `E`, choo
 https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/Twisted%20Fates.json
 ```
 
+<img src="https://i.ibb.co/w7xMHc5/script-icon.png" alt="twisted-fates" width="512">
+
 This is *fan-made content*. [Blood on the Clocktower](https://bloodontheclocktower.com) is owned by Steven Medway and [The Pandemonium Institute](https://www.thepandemoniuminstitute.com). 
 
 Designed and curated by Zobody, with help from emptyset#9999.
