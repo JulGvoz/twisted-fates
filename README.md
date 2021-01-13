@@ -80,6 +80,13 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - If a character states that someone dies tonight and all viable characters are protected by Zenith, nobody can die (this situation doesn't arrive in practice, as there are always at least 2 players not protected).
 - Zenith may choose not to act.
 
+### Examples
+Zenith chooses themselves. Cutthroat targets them, but Zenith does not die.
+
+Zenith was marked by Neolith the previous night, and another marked player died today. Zenith chooses themselves and Calamity, but Calamity is killed by the Savage.
+
+Zenith chooses the Apostle and Cutthroat. Neither of them are protected, because they are on different teams. The Neolith's ability kills the Apostle.
+
 ## Calamity
 "The 1st time you are executed (not the 1st day), all living players die & all dead players come back to life. You stay dead."
 
@@ -92,6 +99,15 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - Calamity being executed while dead does nothing, since they have no ability while dead.
 - Your ability triggers before the game ends (so if all other players of your alignment were dead, they will become alive and the game will not end)
 
+### Examples
+Good Apostle and Cutthroat are dead, Mangler, Neolith, Zenith and Calamity are alive. Calamity is executed. Now Good Apostle and Cutthroat are alive, everyone else is dead. All fated are dead, so the game ends, and evil wins.
+
+Calamity is executed on the first day. Calamity's ability does not trigger.
+
+Zenith, Seeker and Savage are dead, meanwhile Calamity, Sleepwalker, Cutthroat and Mangler are alive. Calamity is executed. Now Zenith, Seeker and Savage are alive, Calamity, Sleepwalker, Cutthroat and Mangler are dead. Zenith, Seeker and Savage are all on different teams, so the game continues and goes into night.
+
+Calamity is poisoned by Neolith. Calamity is executed, but nothing happens.
+
 ## Elixir
 "You cannot die from execution if you were nominated by a fated."
 
@@ -101,6 +117,16 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 
 - If a good or evil Fatebound nominated and executed them, Elixir's ability does not trigger.
 - If fated Vile or Peacebroker nominated and executed them, Elixir is executed but does not die.
+
+### Examples
+
+Elixir is nominated by fated Seeker, and put on the block. Nobody else is put on the block. Elixir is executed, but survives.
+
+Elixir is nominated by fated Apostle, and put on the block. Later, Cutthroat is put on the block and executed. Elixir's ability does not trigger.
+
+Elixir is nominated by fated Cutthroat, and put on the block. Nobody else is put on the block. Elixir is executed, but survives.
+
+Elixir is nominated by evil Seeker. Elixir is executed and dies.
 
 ## Sleepwalker
 "You do not know you are a Peacebroker. You think that you are either Vile or Fatebound."
@@ -114,6 +140,15 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - If the Sleepwalker thinks their ability couldn't modify their alignment, you cannot lie to them about their alignment other than them thinking that they are their normal starting alignment. If they think they are Vile (and evil), and they turn evil, do not notify them of an alignment change (accordingly with Fatefound and fated). If they would turn good, tell them they became good.
 - You may give explicit indication that Sleepwalker is the Sleepwalker through their information.
 
+### Examples
+Sleepwalker, who thinks they are Cutthroat, targets the Seeker, but nobody dies tonight.
+
+Sleepwalker, who thinks they are Seeker, sees the evil Cutthroat as fated. Later the Cutthroat is executed, and Sleepwalker sees themselves as good, even though they think they are fated.
+
+Sleepwalker, who thinks they are Weaver, sees Cutthroat as Calamity, Calamity as Sleepwalker who thinks they are Seeker, Savage as Savage, Seeker as Zenith and Apostle as Neolith. Later, Sleepwalker dies, then Calamity revives them. They wake up to see all characters as Savages - proving to them that they are a Sleepwalker.
+
+Sleepwalker, who thinks they are Neolith, marked the Apostle.
+
 # Vile
 
 <img src="https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/evil.png" alt="evil" width="150">
@@ -126,7 +161,20 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 **Cutthroat** threathens and scares people into nominating after being nominated by the fear of death.
 
 - If nobody was nominated today, Cutthroat does not wake tonight.
-- Cutthroat may choose a dead player if a dead player was nominated.
+- Cutthroat may choose a dead player if a dead player was nominated today.
+
+### Examples
+Mangler and Zenith were nominated today. Cutthroat wakes, but has forgotten who were nominated. They try choosing the Savage, but Storyteller indicates "no", then points to viable players. Cutthroat then chooses Mangler, who dies.
+
+Nobody was nominated today. Cutthroat does not wake. Nobody dies today.
+
+Dead Calamity and Cutthroat were nominated today. Cutthroat chooses the dead Calamity.
+
+Only Cutthroat was nominated today. Cutthroat is forced to kill themselves today.
+
+Cutthroat attacks the Calamity, but Zenith chose Calamity and Zenith that night. Nobody dies.
+
+Seeker was nominated today. Cutthroat chooses Seeker. Seeker dies.
 
 ## Savage
 "Each night\*, choose a player: if they are not on the same team as last executee, they die."
@@ -139,6 +187,19 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - When a player is executed, place the "Last executee" reminder token near them.
 - If nobody was executed today, the "Last executee" token remains on the last player.
 - If nobody was executed in the game yet, Savage can kill anyone.
+- If Savage is brought back to life later in the game, retroactively place the "Last executee" reminder token on the approipriate player.
+
+### Examples
+
+On the 1st day, nobody was executed. Savage chooses the Apostle, Apostle dies.
+
+Today, good Calamity was executed and Savage is brought back to life. Savage can only kill evil or fated player tonight.
+
+Today evil Apostle was executed. Savage chooses Cutthroat, who doesn't die.
+
+On the 1st day good Zenith was executed, but nobody was executed on the 2nd day. Tonight, Savage choose the good Calamity, who doesn't die, because they were on the same team as the last executee, who was the good Zenith.
+
+Cutthroat was executed today, and Savage decides to target the dead Cutthroat to hide a kill.
 
 ## Wanton
 "Each night\*, if an evil player nominated today, all non-evil players are poisoned tonight. Otherwise, a player dies tonight."
@@ -149,6 +210,17 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 
 - If no evil player nominated today, the Storyteller choses a living player who can die today to die.
 - Wanton only cares about alignment, not character type.
+- Wanton only poisons during the night, and doesn't influence day abilities.
+
+### Examples
+
+Evil Apostle nominated the Seeker today. During night, Zenith chooses themselves and Calamity, but Cutthroat still kills Zenith, because Zenith is poisoned.
+
+Good Cutthroat, Calamity and fated Mangler all nominated today, but since no evil players nominated today, nobody is poisoned tonight. Storyteller decides to kill Zenith, who had chosen themselves and Mangler.
+
+Nobody nominated today. Storyteller chooses who to kill: Zenith is protecting themselves and Elixir, and the only other players are Wanton and Weaver. Storyteller cannot choose Zenith or Elixir, therefore chooses Wanton. Wanton dies and good team wins.
+
+Wanton nominated Zenith today, and later fated Mangler nominated Elixir. Elixir is executed but does not die. Tonight, Mangler tries to swap Wanton's alignment with dead Calamity's alignment, but their ability does not work, because they are poisoned by the Wanton.
 
 ## Neolith
 "Each night, mark a living unmarked player. If a marked player dies, all marked players are poisoned until dusk. Otherwise, a player dies tonight."
@@ -159,6 +231,7 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 
 - Players remain marked even if they die.
 - Marked players are poisoned only when Neolith acts during the night.
+- Neolith wakes even if a marked player died.
 - If a marked player died since Neolith acted, the next time Neolith acts, marked players, including the brand new marked player, are poisoned.
 
 # Fatebound
