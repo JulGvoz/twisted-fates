@@ -81,11 +81,11 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - Zenith may choose not to act.
 
 ### Examples
-Zenith chooses themselves. Cutthroat targets them, but Zenith does not die.
+Zenith chooses themselves. [Cutthroat](#Cutthroat) targets them, but Zenith does not die.
 
-Zenith was marked by Neolith the previous night, and another marked player died today. Zenith chooses themselves and Calamity, but Calamity is killed by the Savage.
+Zenith was marked by [Neolith](#Neolith) the previous night, and another marked player died today. Zenith chooses themselves and [Calamity](#Calamity), but [Calamity](#Calamity) is killed by the [Savage](#Savage).
 
-Zenith chooses the Apostle and Cutthroat. Neither of them are protected, because they are on different teams. The Neolith's ability kills the Apostle.
+Zenith chooses the [Apostle](#Apostle) and [Cutthroat](#Cutthroat). Neither of them are protected, because they are on different teams. The [Neolith](#Neolith)'s ability kills the [Apostle](#Apostle).
 
 ## Calamity
 "The 1st time you are executed (not the 1st day), all living players die & all dead players come back to life. You stay dead."
@@ -100,13 +100,13 @@ Zenith chooses the Apostle and Cutthroat. Neither of them are protected, because
 - Your ability triggers before the game ends (so if all other players of your alignment were dead, they will become alive and the game will not end)
 
 ### Examples
-Good Apostle and Cutthroat are dead, Mangler, Neolith, Zenith and Calamity are alive. Calamity is executed. Now Good Apostle and Cutthroat are alive, everyone else is dead. All fated are dead, so the game ends, and evil wins.
+Good [Apostle](#Apostle) and [Cutthroat](#Cutthroat) are dead, [Mangler](#Mangler), [Neolith](#Neolith), [Zenith](#Zenith) and Calamity are alive. Calamity is executed. Now Good [Apostle](#Apostle) and [Cutthroat](#Cutthroat) are alive, everyone else is dead. All fated are dead, so the game ends, and evil wins.
 
 Calamity is executed on the first day. Calamity's ability does not trigger.
 
-Zenith, Seeker and Savage are dead, meanwhile Calamity, Sleepwalker, Cutthroat and Mangler are alive. Calamity is executed. Now Zenith, Seeker and Savage are alive, Calamity, Sleepwalker, Cutthroat and Mangler are dead. Zenith, Seeker and Savage are all on different teams, so the game continues and goes into night.
+[Zenith](#Zenith), [Seeker](#Seeker) and [Savage](#Savage) are dead, meanwhile Calamity, [Sleepwalker](#Sleepwalker), [Cutthroat](#Cutthroat) and [Mangler](#Mangler) are alive. Calamity is executed. Now [Zenith](#Zenith), [Seeker](#Seeker) and [Savage](#Savage) are alive, Calamity, [Sleepwalker](#Sleepwalker), [Cutthroat](#Cutthroat) and [Mangler](#Mangler) are dead. [Zenith](#Zenith), [Seeker](#Seeker) and [Savage](#Savage) are all on different teams, so the game continues and goes into night.
 
-Calamity is poisoned by Neolith. Calamity is executed, but nothing happens.
+Calamity is poisoned by [Neolith](#Neolith). Calamity is executed, but nothing happens.
 
 ## Elixir
 "You cannot die from execution if you were nominated by a fated."
@@ -120,13 +120,13 @@ Calamity is poisoned by Neolith. Calamity is executed, but nothing happens.
 
 ### Examples
 
-Elixir is nominated by fated Seeker, and put on the block. Nobody else is put on the block. Elixir is executed, but survives.
+Elixir is nominated by fated [Seeker](#Seeker), and put on the block. Nobody else is put on the block. Elixir is executed, but survives.
 
-Elixir is nominated by fated Apostle, and put on the block. Later, Cutthroat is put on the block and executed. Elixir's ability does not trigger.
+Elixir is nominated by fated [Apostle](#Apostle), and put on the block. Later, [Cutthroat](#Cutthroat) is put on the block and executed. Elixir's ability does not trigger.
 
-Elixir is nominated by fated Cutthroat, and put on the block. Nobody else is put on the block. Elixir is executed, but survives.
+Elixir is nominated by fated [Cutthroat](#Cutthroat), and put on the block. Nobody else is put on the block. Elixir is executed, but survives.
 
-Elixir is nominated by evil Seeker. Elixir is executed and dies.
+Elixir is nominated by evil [Seeker](#Seeker). Elixir is executed and dies.
 
 ## Sleepwalker
 "You do not know you are a Peacebroker. You think that you are either Vile or Fatebound."
@@ -141,13 +141,13 @@ Elixir is nominated by evil Seeker. Elixir is executed and dies.
 - You may give explicit indication that Sleepwalker is the Sleepwalker through their information.
 
 ### Examples
-Sleepwalker, who thinks they are Cutthroat, targets the Seeker, but nobody dies tonight.
+Sleepwalker, who thinks they are [Cutthroat](#Cutthroat), targets the [Seeker](#Seeker), but nobody dies tonight.
 
-Sleepwalker, who thinks they are Seeker, sees the evil Cutthroat as fated. Later the Cutthroat is executed, and Sleepwalker sees themselves as good, even though they think they are fated.
+Sleepwalker, who thinks they are [Seeker](#Seeker), sees the evil [Cutthroat](#Cutthroat) as fated. Later the [Cutthroat](#Cutthroat) is executed, and Sleepwalker sees themselves as good, even though they think they are fated.
 
-Sleepwalker, who thinks they are Weaver, sees Cutthroat as Calamity, Calamity as Sleepwalker who thinks they are Seeker, Savage as Savage, Seeker as Zenith and Apostle as Neolith. Later, Sleepwalker dies, then Calamity revives them. They wake up to see all characters as Savages - proving to them that they are a Sleepwalker.
+Sleepwalker, who thinks they are [Weaver](#Weaver), sees [Cutthroat](#Cutthroat) as [Calamity](#Calamity), [Calamity](#Calamity) as Sleepwalker who thinks they are [Seeker](#Seeker), [Savage](#Savage) as [Savage](#Savage), [Seeker](#Seeker) as [Zenith](#Zenith) and [Apostle](#Apostle) as [Neolith](#Neolith). Later, Sleepwalker dies, then [Calamity](#Calamity) revives them. They wake up to see all characters as [Savages](#Savages) - proving to them that they are a Sleepwalker.
 
-Sleepwalker, who thinks they are Neolith, marked the Apostle.
+Sleepwalker, who thinks they are [Neolith](#Neolith), marked the [Apostle](#Apostle). [Apostle](#Apostle) didn't die tonight, but nobody dies from the [Neolith](#Neolith) ability.
 
 # Vile
 
@@ -164,17 +164,17 @@ Sleepwalker, who thinks they are Neolith, marked the Apostle.
 - Cutthroat may choose a dead player if a dead player was nominated today.
 
 ### Examples
-Mangler and Zenith were nominated today. Cutthroat wakes, but has forgotten who were nominated. They try choosing the Savage, but Storyteller indicates "no", then points to viable players. Cutthroat then chooses Mangler, who dies.
+[Mangler](#Mangler) and [Zenith](#Zenith) were nominated today. Cutthroat wakes, but has forgotten who were nominated. They try choosing the [Savage](#Savage), but Storyteller indicates "no", then points to viable players. Cutthroat then chooses [Mangler](#Mangler), who dies.
 
 Nobody was nominated today. Cutthroat does not wake. Nobody dies today.
 
-Dead Calamity and Cutthroat were nominated today. Cutthroat chooses the dead Calamity.
+Dead [Calamity](#Calamity) and Cutthroat were nominated today. Cutthroat chooses the dead [Calamity](#Calamity).
 
 Only Cutthroat was nominated today. Cutthroat is forced to kill themselves today.
 
-Cutthroat attacks the Calamity, but Zenith chose Calamity and Zenith that night. Nobody dies.
+Cutthroat attacks the [Calamity](#Calamity), but [Zenith](#Zenith) chose [Calamity](#Calamity) and [Zenith](#Zenith) that night. Nobody dies.
 
-Seeker was nominated today. Cutthroat chooses Seeker. Seeker dies.
+[Seeker](#Seeker) was nominated today. Cutthroat chooses [Seeker](#Seeker). [Seeker](#Seeker) dies.
 
 ## Savage
 "Each night\*, choose a player: if they are not on the same team as last executee, they die."
@@ -191,15 +191,15 @@ Seeker was nominated today. Cutthroat chooses Seeker. Seeker dies.
 
 ### Examples
 
-On the 1st day, nobody was executed. Savage chooses the Apostle, Apostle dies.
+On the 1st day, nobody was executed. Savage chooses the [Apostle](#Apostle), [Apostle](#Apostle) dies.
 
-Today, good Calamity was executed and Savage is brought back to life. Savage can only kill evil or fated player tonight.
+Today, good [Calamity](#Calamity) was executed and Savage is brought back to life. Savage can only kill evil or fated player tonight.
 
-Today evil Apostle was executed. Savage chooses Cutthroat, who doesn't die.
+Today evil [Apostle](#Apostle) was executed. Savage chooses [Cutthroat](#Cutthroat), who doesn't die.
 
-On the 1st day good Zenith was executed, but nobody was executed on the 2nd day. Tonight, Savage choose the good Calamity, who doesn't die, because they were on the same team as the last executee, who was the good Zenith.
+On the 1st day good [Zenith](#Zenith) was executed, but nobody was executed on the 2nd day. Tonight, Savage choose the good [Calamity](#Calamity), who doesn't die, because they were on the same team as the last executee, who was the good [Zenith](#Zenith).
 
-Cutthroat was executed today, and Savage decides to target the dead Cutthroat to hide a kill.
+[Cutthroat](#Cutthroat) was executed today, and Savage decides to target the dead [Cutthroat](#Cutthroat) to hide a kill.
 
 ## Wanton
 "Each night\*, if an evil player nominated today, all non-evil players are poisoned tonight. Otherwise, a player dies tonight."
@@ -214,13 +214,13 @@ Cutthroat was executed today, and Savage decides to target the dead Cutthroat to
 
 ### Examples
 
-Evil Apostle nominated the Seeker today. During night, Zenith chooses themselves and Calamity, but Cutthroat still kills Zenith, because Zenith is poisoned.
+Evil [Apostle](#Apostle) nominated the [Seeker](#Seeker) today. During night, [Zenith](#Zenith) chooses themselves and [Calamity](#Calamity), but [Cutthroat](#Cutthroat) still kills Zenith, because [Zenith](#Zenith) is poisoned by the Wanton.
 
-Good Cutthroat, Calamity and fated Mangler all nominated today, but since no evil players nominated today, nobody is poisoned tonight. Storyteller decides to kill Zenith, who had chosen themselves and Mangler.
+Good [Cutthroat](#Cutthroat), [Calamity](#Calamity) and fated [Mangler](#Mangler) all nominated today, but since no evil players nominated today, nobody is poisoned tonight. Storyteller decides to kill [Zenith](#Zenith), who had chosen themselves and [Mangler](#Mangler).
 
-Nobody nominated today. Storyteller chooses who to kill: Zenith is protecting themselves and Elixir, and the only other players are Wanton and Weaver. Storyteller cannot choose Zenith or Elixir, therefore chooses Wanton. Wanton dies and good team wins.
+Nobody nominated today. Storyteller chooses who to kill: [Zenith](#Zenith) is protecting themselves and [Elixir](#Elixir), and the only other players are Wanton and [Weaver](#Weaver). Storyteller cannot choose [Zenith](#Zenith) or [Elixir](#Elixir), therefore chooses Wanton. Wanton dies and good team wins.
 
-Wanton nominated Zenith today, and later fated Mangler nominated Elixir. Elixir is executed but does not die. Tonight, Mangler tries to swap Wanton's alignment with dead Calamity's alignment, but their ability does not work, because they are poisoned by the Wanton.
+Wanton nominated [Zenith](#Zenith) today, and later fated [Mangler](#Mangler) nominated [Elixir](#Elixir). [Elixir](#Elixir) is executed but does not die. Tonight, [Mangler](#Mangler) tries to swap Wanton's alignment with dead [Calamity](#Calamity)'s alignment, but their ability does not work, because they are poisoned by the Wanton.
 
 ## Neolith
 "Each night, mark a living unmarked player. If a marked player dies, all marked players are poisoned until dusk. Otherwise, a player dies tonight."
