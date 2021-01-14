@@ -204,25 +204,25 @@ On the 1st day good [Zenith](#Zenith) was executed, but nobody was executed on t
 [Cutthroat](#Cutthroat) was executed today, and Savage decides to target the dead [Cutthroat](#Cutthroat) to hide a kill.
 
 ## Wanton
-"Each night\*, if an evil player nominated today, all other non-evil players are poisoned tonight. Otherwise, a player dies tonight."
+"Each night\*, if you nominated today, all other non-evil players are poisoned tonight. Otherwise, a player dies tonight."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/wanton.png" alt="wanton" width="100">
 
-**Wanton** seduces fellow evils in order to poison players, or rages if they weren't successful.
+**Wanton** wages their bets between poisoning others and exposing themselves.
 
-- If no evil player nominated today, the Storyteller choses a living player who can die today to die.
-- Wanton only cares about alignment, not character type.
+- If you did not nominate today, the Storyteller choses a living player who can die today to die.
+- Wanton poisons good and fated players (but not themselves), regardless of character type..
 - Wanton only poisons during the night, and doesn't influence day abilities.
 
 ### Examples
 
-Evil [Apostle](#Apostle) nominated the [Seeker](#Seeker) today. During night, [Zenith](#Zenith) chooses themselves and [Calamity](#Calamity), but [Cutthroat](#Cutthroat) still kills Zenith, because [Zenith](#Zenith) is poisoned by the Wanton.
+Good Wanton nominated the Seeker today. During night, Zenith protects themselves and Calamity, but evil Cutthroat still kills Zenith, because Zenith is poisoned tonight by the good Wanton.
 
-Good [Cutthroat](#Cutthroat), [Calamity](#Calamity) and fated [Mangler](#Mangler) all nominated today, but since no evil players nominated today, nobody is poisoned tonight. Storyteller decides to kill [Zenith](#Zenith), who had chosen themselves and [Mangler](#Mangler).
+All living players except the Wanton nominated today. Storyteller decides to kill Zenith.
 
-Nobody nominated today. Storyteller chooses who to kill: [Zenith](#Zenith) is protecting themselves and [Elixir](#Elixir), and the only other players are Wanton and [Weaver](#Weaver). Storyteller cannot choose [Zenith](#Zenith) or [Elixir](#Elixir), therefore chooses Wanton. Wanton dies and good team wins.
+Nobody nominated today. Zenith is protecting themselves and Calamity, so Storyteller has to kill someone between Wanton and Weaver. Storyteller decides to kill Wanton.
 
-Wanton nominated [Zenith](#Zenith) today, and later fated [Mangler](#Mangler) nominated [Elixir](#Elixir). [Elixir](#Elixir) is executed but does not die. Tonight, [Mangler](#Mangler) tries to swap Wanton's alignment with dead [Calamity](#Calamity)'s alignment, but their ability does not work, because they are poisoned by the Wanton.
+Fated Wanton nominated Zenith today and later Weaver nominated Elixir. Elixir is nominated but does not die. Tonight, Seeker's known target died, they learn Wanton and see "Good", because they are poisoned by the Wanton.
 
 ## Neolith
 "Each night, mark a living unmarked player. If a marked player dies, all marked players are poisoned until dusk. Otherwise, a player dies tonight."
