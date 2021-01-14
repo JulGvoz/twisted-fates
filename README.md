@@ -6,7 +6,7 @@ To play on [clocktower.online](https://clocktower.online) simply press `E`, choo
 https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/twisted-fates.json
 ```
 
-or download it <a href="/raw/master/twisted-fates.json" download="twisted-fates.json">here</a>.
+or download it <a href="/../../raw/master/twisted-fates.json" download="twisted-fates.json">here</a>.
 
 <img src="https://i.ibb.co/w7xMHc5/script-icon.png" alt="twisted-fates" width="512">
 
