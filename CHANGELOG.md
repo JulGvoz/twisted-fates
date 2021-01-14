@@ -1,4 +1,7 @@
 # Changelog
+## v1.7
+* Wanton ability now cares only about themselves, and doesn't inspect other evil players. Also Wanton ability doesn't affect themselves (Minstrel precident).
+* Almanac examples for some characters.
 ## v1.6
 * Script now relies on GitHub to host images
 * Character tokens now pretty
