@@ -80,7 +80,8 @@ Peacebrokers start on the **good** team. They win when all players on the **evil
 - Zenith does not care about character type, only on alignment.
 - If a character states that someone dies tonight, players protected by Zenith cannot die from that character.
 - If a character states that someone dies tonight and all viable characters are protected by Zenith, nobody can die (this situation doesn't arrive in practice, as there are always at least 2 players not protected).
-- Zenith may choose not to act.
+- Zenith may any number of players: 0 players (choosing not to act), 1 player (can pick themselves or someone else), 2 players or more players (can include or exclude themselves).
+- Zenith can choose dead players.
 
 ### Examples
 Zenith chooses themselves. [Cutthroat](#Cutthroat) targets them, but Zenith does not die.
@@ -88,6 +89,10 @@ Zenith chooses themselves. [Cutthroat](#Cutthroat) targets them, but Zenith does
 Zenith was marked by [Neolith](#Neolith) the previous night, and another marked player died today. Zenith chooses themselves and [Calamity](#Calamity), but [Calamity](#Calamity) is killed by the [Savage](#Savage).
 
 Zenith chooses the [Apostle](#Apostle) and [Cutthroat](#Cutthroat). Neither of them are protected, because they are on different teams. The [Neolith](#Neolith)'s ability kills the [Apostle](#Apostle).
+
+Zenith chooses the Weaver tonight. Cutthroat tries to kill the Weaver, but Weaver survives.
+
+Zenith chose themselves tonight. The next day, Calamity is executed. Zenith is killed by Calamity's ability.
 
 ## Calamity
 "The 1st time you are executed (not the 1st day), all living players die & all dead players come back to life. You stay dead."
