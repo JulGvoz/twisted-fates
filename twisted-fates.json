@@ -87,7 +87,7 @@
             "Evil nominated today",
             "Dies"
         ],
-        "ability": "Each night*, if an evil player nominated today, all non-evil players are poisoned tonight. Otherwise, a player dies tonight."
+        "ability": "Each night*, if an evil player nominated today, all other non-evil players are poisoned tonight. Otherwise, a player dies tonight."
     },
     {
         "image": "https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/arranged/neolith.png",

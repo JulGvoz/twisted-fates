@@ -6,6 +6,8 @@ To play on [clocktower.online](https://clocktower.online) simply press `E`, choo
 https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/twisted-fates.json
 ```
 
+or download it <a href="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/twisted-fates.json" download>here</a>.
+
 <img src="https://i.ibb.co/w7xMHc5/script-icon.png" alt="twisted-fates" width="512">
 
 This is *fan-made content*. [Blood on the Clocktower](https://bloodontheclocktower.com) is owned by Steven Medway and [The Pandemonium Institute](https://www.thepandemoniuminstitute.com). 
@@ -202,7 +204,7 @@ On the 1st day good [Zenith](#Zenith) was executed, but nobody was executed on t
 [Cutthroat](#Cutthroat) was executed today, and Savage decides to target the dead [Cutthroat](#Cutthroat) to hide a kill.
 
 ## Wanton
-"Each night\*, if an evil player nominated today, all non-evil players are poisoned tonight. Otherwise, a player dies tonight."
+"Each night\*, if an evil player nominated today, all other non-evil players are poisoned tonight. Otherwise, a player dies tonight."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/wanton.png" alt="wanton" width="100">
 
