@@ -230,16 +230,18 @@ Nobody nominated today. Zenith is protecting themselves and Calamity, so Storyte
 Fated Wanton nominated Zenith today and later Weaver nominated Elixir. Elixir is nominated but does not die. Tonight, Seeker's known target died, they learn Wanton and see "Good", because they are poisoned by the Wanton.
 
 ## Neolith
-"Each night, mark a living unmarked player. If a marked player dies, all marked players are poisoned until dusk. Otherwise, a player dies tonight."
+"Each night, mark a player. If a marked player died today, all marked players are poisoned until dusk & a player dies tonight."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/neolith.png" alt="neolith" width="100">
 
-**Neolith** slowly marks living players, unleashing a surprise attack and wounding them if they show any weakness.
+**Neolith** slowly marks players, unleashing a surprise attack if they show any weakness.
 
+- When players are marked, they remain marked until the end of the game.
+- When Neolith dies, "Marked" reminder tokens are removed
 - Players remain marked even if they die.
-- Marked players are poisoned only when Neolith acts during the night.
 - Neolith wakes even if a marked player died.
-- If a marked player died since Neolith acted, the next time Neolith acts, marked players, including the brand new marked player, are poisoned.
+- If a marked player died today, when neolith marks another player, that player is also poisoned.
+- Storyteller chooses who Neolith kills. Neolith does not learn of the target.
 
 # Fatebound
 *Forthbringers of progress, these humans have discovered a way of tampering with fate, thus embedding themselves in it. Now they have a mission of bringing down the natural order and instilling purity into the world.*
@@ -261,7 +263,7 @@ Fated Wanton nominated Zenith today and later Weaver nominated Elixir. Elixir is
 - Weaver should not see alignment tokens next to characters.
 
 ## Seeker
-You start knowing a player & their alignment. When the player you know dies, you learn another.
+"You start knowing a player & their alignment. When the player you know dies, you learn another."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/seeker.png" alt="seeker" width="100">
 
@@ -273,7 +275,7 @@ You start knowing a player & their alignment. When the player you kn
 - If the player Seeker knows changes alignment, Seeker does not learn this.
 
 ## Mangler
-"Each night\*, choose 2 players (not yourself): they swap alignments."
+"Each night\*, choose 2 players (not yourself): they swap alignments. If just 4 players live, you lose this ability."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/mangler.png" alt="mangler" width="100">
 
@@ -282,10 +284,12 @@ You start knowing a player & their alignment. When the player you kn
 - After Mangler makes their choice, if the players they chose have different alignments, wake each of them separately and tell them of their alignment change.
 - If Mangler causes all players of a team to become dead, the game ends.
 - If Mangler chooses 2 players of the same alignment, nothing happens.
+- If night started with more than 4 players alive, but when Mangler acts enough players died so that only 4 or 3 players live, Mangler doesn't wake.
+
 
 
 ## Apostle
-"Each night\*, you become the alignment of the 1st player who nominated today. When the game ends, you become fated."
+"Each night\* you become the alignment of the 1st player who nominated today. When the game ends, you become fated."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/apostle.png" alt="apostle" width="100">
 

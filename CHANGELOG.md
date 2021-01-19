@@ -1,4 +1,7 @@
 # Changelog
+## v1.8
+* Neolith completely revamped.
+* Fix Mangler to be more fun in end game by disabling their ability.
 ## v1.7
 * Wanton ability now cares only about themselves, and doesn't inspect other evil players. Also Wanton ability doesn't affect themselves (Minstrel precident).
 * Almanac examples for some characters.
