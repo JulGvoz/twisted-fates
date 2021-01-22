@@ -40,6 +40,16 @@ fs.readFile(source_file, "utf8", (err, file_text) => {
       }, str)
     }
 
+    const role_list_table = roles.map(role => {
+      return `|${linkify(role.name)}|<img src="${github_base}/master/original-icons/${role.id}.png" alt="${role.name} icon" width="50">|${role.ability}|`
+    })
+
+    const role_table = [
+      "|Name|Icon|Ability|",
+      "|-|-|-|",
+      ...role_list_table
+    ]
+
 
     const format_role = (role) => {
       return [
@@ -129,7 +139,8 @@ fs.readFile(source_file, "utf8", (err, file_text) => {
       "",
       ...(meta.iconCredit && meta.iconCredit.length > 0 ? ["Icon credit:",
         ...(meta.iconCredit.map(source => ` - ${source}`)),
-        ""] : [])
+        ""] : []),
+      ...role_table
     ]
 
     const rules = [

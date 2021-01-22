@@ -17,6 +17,20 @@ Designed and curated by Zobody, with help from emptyset#9999 and Sodium#6176.
 Icon credit:
  - <https://game-icons.net>
 
+|Name|Icon|Ability|
+|-|-|-|
+|[Zenith](#Zenith)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/zenith.png" alt="Zenith icon" width="50">|Each night*, choose any number of players: if they are on the same team, they cannot die tonight.|
+|[Calamity](#Calamity)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/calamity.png" alt="Calamity icon" width="50">|The 1st time you are executed (not the 1st day), all living players die & all dead players come back to life. You stay dead.|
+|[Elixir](#Elixir)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/elixir.png" alt="Elixir icon" width="50">|You cannot die from execution if you were nominated by a fated.|
+|[Sleepwalker](#Sleepwalker)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/sleepwalker.png" alt="Sleepwalker icon" width="50">|You do not know you are a Peacebroker. You think that you are either Vile or Fatebound.|
+|[Cutthroat](#Cutthroat)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/cutthroat.png" alt="Cutthroat icon" width="50">|Each night*, choose a player who was nominated today: they die.|
+|[Savage](#Savage)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/savage.png" alt="Savage icon" width="50">|Each night*, choose a player: if they are not on the same team as last executee, they die.|
+|[Wanton](#Wanton)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/wanton.png" alt="Wanton icon" width="50">|Each night*, if you nominated today, all other non-evil players are poisoned tonight. Otherwise, a player dies tonight.|
+|[Neolith](#Neolith)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/neolith.png" alt="Neolith icon" width="50">|Each night, mark a player (not yourself). If a marked player died today, all marked players are poisoned until dusk & a player dies tonight.|
+|[Weaver](#Weaver)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/weaver.png" alt="Weaver icon" width="50">|You start knowing all other players & their characters. Players of your alignment register falsely to you.|
+|[Seeker](#Seeker)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/seeker.png" alt="Seeker icon" width="50">|You start knowing a player & their alignment. When the player you know dies, you learn another.|
+|[Mangler](#Mangler)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/mangler.png" alt="Mangler icon" width="50">|Each night*, choose 2 players (not yourself): they swap alignments. If 4 or fewer players live, you do not wake.|
+|[Apostle](#Apostle)|<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/apostle.png" alt="Apostle icon" width="50">|Each night* you become the alignment of the 1st player who nominated today. When the game ends, you become fated.|
 ## Homebrew rules
 
 There are 3 alignments/teams: good, evil and fated, and 3 character types:
