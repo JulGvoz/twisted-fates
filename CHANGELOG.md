@@ -1,4 +1,8 @@
 # Changelog
+## v1.10
+* Added examples for all characters
+* Changed Weaver. Weaver starts knowing players and their characters instead of seeing a fake Grimoire.
+* Mangler now simply doesn't wake if there aren't enough players alive, instead of losing their ability.
 ## v1.9
 * JSON file now contains the data of the Almanac, to be parsed using `node parser.js twisted-fates.json README.md`
 ## v1.8

@@ -1,14 +1,14 @@
-# Twisted Fates v1.9
+# Twisted Fates v1.10
 
 To play on [clocktower.online](https://clocktower.online) simply press `E`, choose **Custom Script / Characters**, click **Enter URL** and paste this:
 
 ```
-https://raw.githubusercontent.com/JulGvoz/twisted-fates/twisted-fates.json
+https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/twisted-fates.json
 ```
 
 or open this [link](https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/twisted-fates.json) and press `Ctrl + S`.
 
-<img src="https://i.ibb.co/w7xMHc5/script-icon.png" alt="Twisted Fates v1.9 logo" width="512">
+<img src="https://i.ibb.co/w7xMHc5/script-icon.png" alt="Twisted Fates v1.10 logo" width="512">
 
 This is *fan-made content*. [Blood on the Clocktower](https://bloodontheclocktower.com) is owned by Steven Medway and [The Pandemonium Institute](https://www.thepandemoniuminstitute.com). 
 
@@ -237,7 +237,7 @@ Fated [Wanton](#Wanton) nominated [Zenith](#Zenith) today and later [Weaver](#We
 
 ## Neolith
 
-"Each night, mark a player. If a marked player died today, all marked players are poisoned until dusk & a player dies tonight."
+"Each night, mark a player (not yourself). If a marked player died today, all marked players are poisoned until dusk & a player dies tonight."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/neolith.png" alt="Neolith icon" width="100">
 
@@ -250,6 +250,15 @@ Neolith slowly marks players, unleashing a surprise attack if they show any weak
  - If a marked player died today, when neolith marks another player, that player is also poisoned.
  - Storyteller chooses who Neolith kills. Neolith does not learn of the target.
 
+### Examples
+[Neolith](#Neolith) choose [Sleepwalker](#Sleepwalker) on the 1st night. Today, [Sleepwalker](#Sleepwalker) was executed. [Neolith](#Neolith)'s ability causes a player to die, and thus Storyteller chooses [Apostle](#Apostle) to die.
+
+[Neolith](#Neolith) has marked [Apostle](#Apostle) and [Elixir](#Elixir) already. This night, [Wanton](#Wanton) killed [Elixir](#Elixir), and [Neolith](#Neolith) chooses the [Wanton](#Wanton). Because none of marked players died during day, [Neolith](#Neolith) doesn't poison or kill anyone tonight.
+
+[Neolith](#Neolith) has marked [Weaver](#Weaver), [Calamity](#Calamity) and [Cutthroat](#Cutthroat) already. Today, [Cutthroat](#Cutthroat) was executed. Tonight, [Neolith](#Neolith) chooses [Seeker](#Seeker). [Weaver](#Weaver), [Calamity](#Calamity), dead [Cutthroat](#Cutthroat) and [Seeker](#Seeker) are all poisoned. Storyteller chooses to kill the [Seeker](#Seeker).
+
+[Neolith](#Neolith) has marked the [Mangler](#Mangler) and [Cutthroat](#Cutthroat) so far. Last night, [Cutthroat](#Cutthroat) died. Today, [Mangler](#Mangler) was executed, and [Cutthroat](#Cutthroat) came back to life. Tonight, [Cutthroat](#Cutthroat) is poisoned by [Neolith](#Neolith), and [Neolith](#Neolith)'s ability kills the [Cutthroat](#Cutthroat).
+
 # Fatebound
 *Forthbringers of progress, these humans have discovered a way of tampering with fate, thus embedding themselves in it. Now they have a mission of bringing down the natural order and instilling purity into the world.*
 
@@ -257,18 +266,25 @@ Neolith slowly marks players, unleashing a surprise attack if they show any weak
 
 ## Weaver
 
-"You start knowing the entire Grimoire. Players of your alignment register falsely to you in the Grimoire you see."
+"You start knowing all other players & their characters. Players of your alignment register falsely to you."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/weaver.png" alt="Weaver icon" width="100">
 
 Weaver knows the fate of all but their own.
 
- - Before showing the Grimoire to Weaver, the Storyteller must save the real grimoire (taking a screenshot or a photo. It is often useful to do this even if Weaver is not in play), show a modified Grimoire, and then restore the Grimoire.
- - All Fatebound characters must be replaced with Vile or Peacebroker characters.
- - If there is a Sleepwalker who thinks that they are Fatebound, Weaver sees the Fatebound character with the "Sleepwalker" reminder token next to them.
- - Duplicate or paper tokens may be required, as the Weaver could see duplicate tokens.
- - Weaver's teammates can register as Sleepwalkers too. In that case, either the original Fatebound character or any other character can be shown.
- - Weaver should not see alignment tokens next to characters.
+ - Storyteller can send the Weaver a fake Grimoire when playing online.
+ - If Weaver is fated, all fated players (usually those who have Fatebound character) must be replaced with another character.
+ - When registering falsely, characters can appear as anything else, including another character for the same character type.
+ - If there is a Sleepwalker who thinks that they are Fatebound, fated Weaver simply learns Sleepwalker for that player.
+ - Storyteller may tell (or sometimes even be forced to tell) Weaver the same character 2 or more times.
+ - Weaver does not learn of any reminder or alignment tokens, just the characters of players.
+
+### Examples
+[Weaver](#Weaver), [Apostle](#Apostle), [Elixir](#Elixir), [Sleepwalker](#Sleepwalker) who thinks they are the [Seeker](#Seeker), [Wanton](#Wanton) and [Cutthroat](#Cutthroat) are in play. [Weaver](#Weaver) wakes on 1st night to learn [Apostle](#Apostle) as [Seeker](#Seeker) (must register falsely), [Elixir](#Elixir) as [Elixir](#Elixir), [Sleepwalker](#Sleepwalker) as [Sleepwalker](#Sleepwalker), [Wanton](#Wanton) as [Wanton](#Wanton) and [Cutthroat](#Cutthroat) as [Cutthroat](#Cutthroat). Note that only [Apostle](#Apostle) registered falsely.
+
+Evil [Weaver](#Weaver) has been brought back to life by [Calamity](#Calamity). They wake first in the night, before any other roles (even though [Neolith](#Neolith) is alive now). They see [Elixir](#Elixir) as [Elixir](#Elixir), evil [Mangler](#Mangler) as [Calamity](#Calamity), fated [Sleepwalker](#Sleepwalker) as [Sleepwalker](#Sleepwalker), evil [Calamity](#Calamity) as [Mangler](#Mangler) and fated [Apostle](#Apostle) as [Apostle](#Apostle).
+
+[Weaver](#Weaver), [Seeker](#Seeker), [Mangler](#Mangler), [Elixir](#Elixir), [Calamity](#Calamity), [Zenith](#Zenith), [Cutthroat](#Cutthroat), [Savage](#Savage) and [Wanton](#Wanton) are in play. [Weaver](#Weaver) wakes on 1st night to learn: [Seeker](#Seeker) as [Sleepwalker](#Sleepwalker), [Mangler](#Mangler) as [Neolith](#Neolith), [Elixir](#Elixir) as [Elixir](#Elixir), [Calamity](#Calamity) as [Calamity](#Calamity), [Zenith](#Zenith) as [Zenith](#Zenith), [Cutthroat](#Cutthroat) as [Cutthroat](#Cutthroat), [Savage](#Savage) as [Savage](#Savage) and [Wanton](#Wanton) as [Wanton](#Wanton). Because of lack of ability to tell apart who is just registering wrong, [Weaver](#Weaver) doesn't know their teammates.
 
 ## Seeker
 
@@ -283,9 +299,18 @@ Seeker searches for a person who's fate they can accept... killing all the other
  - If Seeker would die tonight, they cannot learn another player.
  - If the player Seeker knows changes alignment, Seeker does not learn this.
 
+### Examples
+On the 1st night, [Seeker](#Seeker) learns that Alice (who is [Mangler](#Mangler)) is fated. On the 3rd night, Alice died, so [Seeker](#Seeker) later learns that Bob (who is the [Cutthroat](#Cutthroat)) is evil.
+
+[Seeker](#Seeker) starts knowing that Charlie (who is [Elixir](#Elixir)) is good. [Seeker](#Seeker) tries to execute Charlie, but they do not die (due to [Elixir](#Elixir) ability). [Seeker](#Seeker) doesn't learn anything during night, because the player they know hasn't died yet.
+
+[Seeker](#Seeker) starts knowing that Diana (who is [Savage](#Savage)) is evil. The next night, [Mangler](#Mangler) swaps turns [Seeker](#Seeker) evil and [Savage](#Savage) fated. [Seeker](#Seeker) still thinks that Diana is evil.
+
+[Seeker](#Seeker) starts knowing that Elana (who is [Sleepwalker](#Sleepwalker) who thinks they are [Wanton](#Wanton)) is good. On the 1st day, [Seeker](#Seeker) is executed and on 2nd day, [Calamity](#Calamity) is executed, and [Seeker](#Seeker) is brought back to life. [Sleepwalker](#Sleepwalker) was also brought back to life. [Seeker](#Seeker) wakes that night and learns that dead [Calamity](#Calamity) is good.
+
 ## Mangler
 
-"Each night\*, choose 2 players (not yourself): they swap alignments. If just 4 players live, you lose this ability."
+"Each night\*, choose 2 players (not yourself): they swap alignments. If 4 or fewer players live, you do not wake."
 
 <img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/mangler.png" alt="Mangler icon" width="100">
 
@@ -295,6 +320,20 @@ Mangler twists people's fates, tangling them in a web.
  - If Mangler causes all players of a team to become dead, the game ends.
  - If Mangler chooses 2 players of the same alignment, nothing happens.
  - If night started with more than 4 players alive, but when Mangler acts enough players died so that only 4 or 3 players live, Mangler doesn't wake.
+ - If at some point there were only 3 or 4 players alive (thus Mangler didn't wake), and later there are 5 or more players alive, Mangler can wake again.
+
+### Examples
+On the 2nd night, [Mangler](#Mangler) chooses now evil [Apostle](#Apostle) and fated [Seeker](#Seeker). [Apostle](#Apostle) wakes again (they woke this night already to learn they became evil) to learn that they are now fated. Afterward, [Seeker](#Seeker) is woken to learn that they are now evil.
+
+[Mangler](#Mangler) chooses evil [Calamity](#Calamity) and [Cutthroat](#Cutthroat). Since both of them have the same alignment, nothing happens.
+
+[Mangler](#Mangler) chooses good [Sleepwalker](#Sleepwalker) who thinks they are [Apostle](#Apostle) and evil [Cutthroat](#Cutthroat). [Cutthroat](#Cutthroat) learns they are now good, but Storyteller decides to lie to [Sleepwalker](#Sleepwalker) (because [Sleepwalker](#Sleepwalker) thinks they are [Apostle](#Apostle)) and tell them they are now good.
+
+[Seeker](#Seeker) has just been executed, and with 5 players alive, town goes to sleep. Tonight, no kills happen. [Mangler](#Mangler) wakes and chooses last good player [Calamity](#Calamity) and dead [Cutthroat](#Cutthroat). There are no more living good players, so game ends.
+
+[Apostle](#Apostle) has just been executed, and with 4 players alive, town goes to sleep. Tonight, [Mangler](#Mangler) doesn't wake.
+
+Players go to sleep with 5 players alive. [Cutthroat](#Cutthroat) kills the [Calamity](#Calamity) during night, and thus [Mangler](#Mangler) doesn't wake.
 
 ## Apostle
 
@@ -310,3 +349,10 @@ Apostle carries out their mission at any cost.
  - If Apostle would win, but turns fated, they lose, unless all good are dead too.
  - If Apostle is the last remaining player of a team and die, they remain that alignment.
  - If Apostle is the last remaining player of a team and changes alignement, game ends and then apostle turns fated.
+
+### Examples
+On the 1st day, [Cutthroat](#Cutthroat) nominated 1st that day. That night, [Apostle](#Apostle) turned evil. [Seeker](#Seeker) nominated 1st today. [Apostle](#Apostle) turns fated tonight.
+
+Good [Apostle](#Apostle) is the last evil player alive. Last fated player is executed, and game ends. Evil has won, but [Apostle](#Apostle) has turned fated because game has ended. Thus, fated (including [Apostle](#Apostle)) and good have lost, and evil have won.
+
+[Apostle](#Apostle) is executed on the 1st day. The following day, [Cutthroat](#Cutthroat) nominates 1st and executes the [Calamity](#Calamity), thus [Apostle](#Apostle) is now alive. Tonight, [Apostle](#Apostle) turns evil, because an evil player nominated first. (Even if [Apostle](#Apostle) was dead at that time)

@@ -31,7 +31,7 @@ fs.readFile(source_file, "utf8", (err, file_text) => {
     const github_base = `https://raw.githubusercontent.com/${meta.github.replace("https://github.com/", "")}`
 
     // link for loading the json file through bra1n tool
-    const load_link = `${github_base}/${source_file}`
+    const load_link = `${github_base}/master/${source_file}`
 
     // replace Zenith => [Zenith](#Zenith)
     const linkify = (str) => {
@@ -119,7 +119,7 @@ fs.readFile(source_file, "utf8", (err, file_text) => {
       load_link,
       "```",
       "",
-      "or open this [link](https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/twisted-fates.json) and press `Ctrl + S`.",
+      `or open this [link](${load_link}) and press \`Ctrl + S\`.`,
       "",
       `<img src="${meta.logo}" alt="${meta.name} logo" width="512">`,
       "",
