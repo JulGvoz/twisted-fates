@@ -68,7 +68,7 @@ fs.readFile(source_file, "utf8", (err, file_text) => {
       return [
         `# ${capitalize(team.name)}`,
         // If a team has a description in meta.teams, write it out here
-        ...(Array(meta.teams ? meta.teams[team.name] : "")),
+        ...(meta.teams ? meta.teams[team.name] : []),
         ...(team.roles.flatMap(format_role))
       ]
     }

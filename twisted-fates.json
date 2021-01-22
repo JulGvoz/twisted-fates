@@ -50,15 +50,21 @@
     "teams": {
       "peacebroker": [
         "*Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*",
+        "",
         "<img src=\"https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/good.png\" alt=\"good\" width=\"150\">",
-        "Peacebrokers start on the **good** team. They win when all players on the **evil** team die."
+        "",
+        "Peacebrokers start on the **good** team. They win when all players on the **evil** team die.",
+        ""
       ],
       "vile": [
-        "<img src=\"https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/evil.png\" alt=\"evil\" width=\"150\">"
+        "<img src=\"https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/evil.png\" alt=\"evil\" width=\"150\">",
+        ""
       ],
       "fatebound": [
         "*Forthbringers of progress, these humans have discovered a way of tampering with fate, thus embedding themselves in it. Now they have a mission of bringing down the natural order and instilling purity into the world.*",
-        "<img src=\"https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/fated.png\" alt=\"fated\" width=\"100\">"
+        "",
+        "<img src=\"https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/fated.png\" alt=\"fated\" width=\"100\">",
+        ""
       ]
     }
   },

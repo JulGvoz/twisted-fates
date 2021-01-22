@@ -65,7 +65,12 @@ Because Sleepwalker must be in the game, put in all character tokens except the 
 ||[Apostle](#Apostle)|
 ||[Mangler](#Mangler)|
 # Peacebroker
-*Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*,<img src="https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/good.png" alt="good" width="150">,Peacebrokers start on the **good** team. They win when all players on the **evil** team die.
+*Peaceful beings and forces of nature. Existing in the realm of the living, they are suddenly disturbed by vile creatures.*
+
+<img src="https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/good.png" alt="good" width="150">
+
+Peacebrokers start on the **good** team. They win when all players on the **evil** team die.
+
 ## Zenith
 
 "Each night\*, choose any number of players: if they are on the same team, they cannot die tonight."
@@ -159,6 +164,7 @@ Good [Apostle](#Apostle) and [Cutthroat](#Cutthroat) are dead, [Mangler](#Mangle
 
 # Vile
 <img src="https://raw.githubusercontent.com/bra1n/townsquare/main/src/assets/icons/evil.png" alt="evil" width="150">
+
 ## Cutthroat
 
 "Each night\*, choose a player who was nominated today: they die."
@@ -245,7 +251,10 @@ Neolith slowly marks players, unleashing a surprise attack if they show any weak
  - Storyteller chooses who Neolith kills. Neolith does not learn of the target.
 
 # Fatebound
-*Forthbringers of progress, these humans have discovered a way of tampering with fate, thus embedding themselves in it. Now they have a mission of bringing down the natural order and instilling purity into the world.*,<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/fated.png" alt="fated" width="100">
+*Forthbringers of progress, these humans have discovered a way of tampering with fate, thus embedding themselves in it. Now they have a mission of bringing down the natural order and instilling purity into the world.*
+
+<img src="https://raw.githubusercontent.com/JulGvoz/twisted-fates/master/original-icons/fated.png" alt="fated" width="100">
+
 ## Weaver
 
 "You start knowing the entire Grimoire. Players of your alignment register falsely to you in the Grimoire you see."
