@@ -1,4 +1,6 @@
 # Changelog
+## v1.9
+* JSON file now contains the data of the Almanac, to be parsed using `node parser.js twisted-fates.json README.md`
 ## v1.8
 * Neolith completely revamped.
 * Fix Mangler to be more fun in end game by disabling their ability.
