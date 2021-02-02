@@ -228,8 +228,9 @@
     "firstNight": 0,
     "otherNight": 15,
     "reminders": [
-      "Evil nominated today",
-      "Dies"
+      "Nominated today",
+      "Dies",
+      "Poisoned"
     ],
     "ability": "Each night*, if you nominated today, all other non-evil players are poisoned tonight. Otherwise, a player dies tonight.",
     "blurb": "**Wanton** wages their bets between poisoning others and exposing themselves.",
